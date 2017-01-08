@@ -1,3 +1,5 @@
 def jan(num)
-  @num=num
+  5.times.do |variable|
+    @num=num
+  end
 end
